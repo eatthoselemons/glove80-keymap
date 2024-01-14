@@ -17,8 +17,8 @@
 #define DEFAULT 0
 #define NUMBER 1
 #define SYMBOLIC 2
-#define MAGIC
-#define FACTORY_TEST 3
+#define MAGIC 3
+#define FACTORY_TEST 4
 
 / {
     behaviors {
