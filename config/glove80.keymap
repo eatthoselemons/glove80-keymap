@@ -105,11 +105,11 @@
 
         symbolic_layer {
             bindings = <
-            &none  &none &none            &none             &none                                                                                                  &none  &none      &none    &none      &none
-            &none  &none &kp LEFT_BRACE   &kp RIGHT_BRACE   &none &none                                                                               &none        &none  &AMPERSAND &GRAVE   &none      &none
-            &none  &PIPE &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none                                                                               &none        &POUND &DOLLAR    &PERCENT &CARROT    &none
-            &none  &BSLH &kp LPAR         &kp RPAR          &kp BACKSPACE &none                                                                       &EXCLAMATION &COLON &SEMICOLON &EQUAL   &AT_SIGN   &none
-            &none  &none &none            &none             &ks Enter     &none &trans      &trans      &to DEFAULT &trans      &trans      &trans    &none        &FSLH  &STAR      &MINUS   &PLUS      &none
+            &none  &none &none            &none             &none                                                                                                     &none     &none         &none       &none      &none
+            &none  &none &kp LEFT_BRACE   &kp RIGHT_BRACE   &none &none                                                                               &none           &none     &kp AMPERSAND &kp GRAVE   &none      &none
+            &none  &kp PIPE &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none                                                                               &none           &kp POUND &kp DOLLAR    &kp PERCENT &kp CARET    &none
+            &none  &kp BSLH &kp LPAR         &kp RPAR          &kp BACKSPACE &none                                                                       &kp EXCLAMATION &kp COLON &kp SEMICOLON &kp EQUAL   &kp AT_SIGN   &none
+            &none  &none &none            &none             &ks Enter     &none &trans      &trans      &to DEFAULT &trans      &trans      &trans    &none        &kp FSLH  &kp STAR      &kp MINUS   &kp PLUS      &none
             &trans &none &none            &none             &none               &trans      &trans      &trans      &trans      &trans      &trans                 &TILDE &none      &none    &none      &none
             >;
         };
