@@ -94,12 +94,12 @@
 
         default_layer {
             bindings = <
-            &kp F1         &kp F2   &kp F3      &kp F4      &kp F5                                                                                           &kp F6  &kp F7           &kp F8    &kp F9            &kp F10
-            &none          &kp N1   &kp N2      &kp N3      &kp N4      &kp N5                                                                       &kp N6  &kp N7  &kp SINGLE_QUOTE &kp DOUBLE_QUOTE &kp N0     &none
-            &kp ESC        &kp Q    &kp W       &kp E       &kp R       &kp T                                                                        &kp Y   &kp U   &kp I            &kp O     &kp P             &none
-            &kp TAB        &kp A    &kp S       &kp D       &kp F       &kp G                                                                        &kp H   &kp J   &kp K            &kp L     &kp UNDERSCORE    &none
-            &none          &kp Z    &kp X       &kp C       &kp V       &none   &kp LALT    &none     &none  &none     &none      &kp LGUI           &none   &kp M   &kp COMMA        &kp DOT   &kp FSLH          &none
-            &magic MAGIC 0 &none    &none       &none       &kp B               &kp LSHFT   &kp LCTRL &none  &kp LGUI  &mo NUMBER &lt SYMBOLIC SPACE         &kp N   &none            &kp LBKT   &kp RBKT         &none
+            &kp F1         &kp F2   &kp F3      &kp F4      &kp F5                                                                                           &kp F6  &kp F7           &kp F8           &kp F9 &kp F10
+            &none          &kp N1   &kp N2      &kp N3      &kp N4      &kp N5                                                                       &kp N6  &kp N7  &kp SINGLE_QUOTE &kp DOUBLE_QUOTE &kp N0 &none
+            &kp ESC        &kp Q    &kp W       &kp E       &kp R       &kp T                                                                        &kp Y   &kp U   &kp I            &kp O            &kp P          &none
+            &kp TAB        &kp A    &kp S       &kp D       &kp F       &kp G                                                                        &kp H   &kp J   &kp K            &kp L            &kp UNDERSCORE &none
+            &none          &kp Z    &kp X       &kp C       &kp V       &none   &kp LALT    &none     &none  &none     &none      &kp LGUI           &none   &kp M   &kp COMMA        &kp DOT          &kp FSLH       &none
+            &magic MAGIC 0 &none    &none       &none       &kp B               &kp LSHFT   &kp LCTRL &none  &kp LGUI  &mo NUMBER &lt SYMBOLIC SPACE         &kp N   &none            &kp LBKT         &kp RBKT       &none
             >;
         };
 
