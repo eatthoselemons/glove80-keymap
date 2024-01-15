@@ -101,7 +101,7 @@
 &none   &none     &kp LEFT_BRACE    &kp RIGHT_BRACE    &none          &none                                                  &none  &none            &kp AMPERSAND  &kp GRAVE    &none        &none
 &none   &kp PIPE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &none          &none                                                  &none  &kp POUND        &kp DOLLAR     &kp PERCENT  &kp CARET    &none
 &none   &kp BSLH  &kp LPAR          &kp RPAR           &kp BACKSPACE  &none                                                  &none  &kp EXCLAMATION  &kp SEMICOLON  &kp EQUAL    &kp AT_SIGN  &none
-&none   &none     &none             &none              &kp ENTER      &none  &trans  &trans  &trans  &trans  &trans  &trans  &none  &kp FSLH         &kp COMMA      &kp PERIOD   &none        &none
+&none   &none     &none             &none              &kp ENTER      &none  &trans  &trans  &trans  &trans  &trans  &trans  &none  &none            &kp COMMA      &kp PERIOD   &kp FSLH     &none
 &trans  &none     &none             &none              &none                 &trans  &trans  &trans  &trans  &trans  &trans         &kp TILDE        &none          &none        &none        &none
             >;
         };
