@@ -10,6 +10,10 @@ Trying to avoid using home row mods as those seem fairly tedious to get working 
 Not having any keypresses that are in a position that is hard for me to reach, which is very different than most other keyboards
 Doing as much hold on the thumb clusters as possible
 
+## Editing
+
+To ease editing I am using Nicks [gui bot](https://nickcoutsos.github.io/keymap-editor/)
+
 ## Firmware Files
 To locate your firmware files and reflash your Glove80...
 1. log into GitHub and navigate to your personal config repository you just uploaded your keymap changes to.
